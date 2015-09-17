@@ -1,36 +1,31 @@
----
-translator: Aslak  
-revised: 2015-09-17 09:55  
-keywords: wip fixme
----
+﻿
+Fixarens Manifest
+=================
 
-Det fixares manifestet
-=====================
+**1. Om det är trasigt, laga det!** För att lösa vardags utmaningar är en av de vackraste kreativitetsformer som finns.
 
-<!-- **1. If it’s broken, fix it!** Because everyday practical problem solving is the most beautiful form of creativity there is. -->
+**2. Om det inte är trasigt, förbättra det.** En liten smart förbättring kan förbättra hur en sak funkar i många år framöver.
 
-<!-- **2. If it’s not broken, improve it.** A small, clever tweak can improve how something works for years to come. -->
+**3. Ge dina saker ett långt liv.** Om man dubblar livslängden på sina saker så blir soptippen hälften så stor.
 
-<!-- **3. Give your products a longer life.** If we double the life of our stuff, we halve what goes to landfill. -->
+**4. Fixande betyder frihet och oberoende.** Som en fixare, du behöver inte bry dig om nött och slitet. Inget förblir nytt, så glöm bort perfektion.
 
-<!-- **4. Fixing means freedom and independence.** As a fixer, you don’t need to worry about wear and tear. Nothing stays new, so forget perfection. -->
+**5. Stå emot trender och oändliga upgraderinger.** Dom driver vår "kasta bort" kultur.
 
-<!-- **5. Resist trends and needless upgrades.** They fuel our throwaway culture. -->
+**6. Låt inte företagen behandla dig som en passiv konsument.** Varje gång vi gör av med pengar så röstar vi för den sak som vi vill ska lyckas. Köp saker som går att reparera.
 
-<!-- **6. Don’t let companies treat you as a passive consumer.** Every time we spend money, we vote for the kinds of products we want to see succeed. Buy products that can be repaired. -->
+**7. En fixad sak är en vacker sak.** Alla fix, oavsett om den är proffsig eller improviserad, har en historia.
 
-<!-- **7. A fixed thing is a beautiful thing.** Every fix, whether skillful or improvised, holds a story. -->
+**8. Om du har en ide, start litet och gör det bra.** Om den är rätt så växer den vidare.
 
-<!-- **8. If you have an idea, start small and make it good.** If it’s right, it’ll grow from there. -->
+**9. Föd din nyfikenhet. Prova saker du aldrig har provat förut.** Det är bra för din hjärna och din själ. Var inte rädd för att misslyckas — det gör bara successen mycket bättre.
 
-<!-- **9. Nurture your curiosity. Keep trying things you’ve never tried before.** It’s good for your brain and your soul. Don’t be afraid to fail — it makes success all the sweeter. -->
+**10. Människor är oändligt olika. Saker borde vara det också.** Allt kan förbättras eller anpassas till olika behov.
 
-<!-- **10. People are infinitely diverse. Products should be too.** Everything can be improved or customised. -->
+**11. Kasta bort är ett val, inte ett fysiskt attribut.** Plast är inte av ondo, bara om det används fel. Behandla plast med respekt.
 
-<!-- **11. Disposability is a choice, not a physical characteristic.** Plastics aren’t evil, but we’re using them wrong. Treat them with respect. -->
+**12. Dela dina ideer, din entusiasm och kunskaper.** Om du har funnit glädjen med fixande, för det vidare. Det är en gåva för livet.
 
-<!-- **12. Share your ideas, your enthusiasm and your skills.** If you’ve found the joy of fixing, pass it on. It’s a gift for life. -->
+Från skaparen av [sugru](https://sugru.com).
 
-<!-- From the inventors of [sugru](https://sugru.com). -->
-
-<!-- Inspiration credits to [Platform 21](http://www.platform21.nl)’s repair manifesto, [ifixit](http://ifixit.com/), [Holstee](http://shop.holstee.com/pages/about), and the [Cult of Done](http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html). -->
+Inspiration credits to [Platform 21](http://www.platform21.nl)’s repair manifesto, [ifixit](http://ifixit.com/), [Holstee](http://shop.holstee.com/pages/about), and the [Cult of Done](http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html).
