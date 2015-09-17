@@ -4,7 +4,9 @@ revised: 2015-09-17 09:55
 keywords: wip fixme
 ---
 
-Den ??? ??-en <!-- The Fixer’s Manifesto -->
+<!-- The Fixer’s Manifesto -->
+
+Den ??? ??-en
 =====================
 
 <!-- **1. If it’s broken, fix it!** Because everyday practical problem solving is the most beautiful form of creativity there is. -->
