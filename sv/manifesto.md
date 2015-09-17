@@ -1,13 +1,10 @@
-﻿---
+---
 translator: Aslak  
 revised: 2015-09-17 09:55  
 keywords: wip fixme
 ---
 
-
-<!-- The Fixer’s Manifesto -->
-
-Den ??? ??-en
+Den ??? ??-en <!-- The Fixer’s Manifesto -->
 =====================
 
 <!-- **1. If it’s broken, fix it!** Because everyday practical problem solving is the most beautiful form of creativity there is. -->
